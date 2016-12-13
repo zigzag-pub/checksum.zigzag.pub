@@ -1,3 +1,3 @@
 ## Checksum
 
-### Welcome!
+The minimal effort blog.
