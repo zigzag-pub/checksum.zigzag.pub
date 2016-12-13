@@ -13,29 +13,35 @@ Articles covering use of `hosts`.
 ##### Roles
 
 Articles covering use of `roles`.
-  * Placeholder
+
+= Placeholder
 
 ##### Plays
 
 Articles covering use of `plays`.
-  * Placeholder
+
+= Placeholder
 
 ### Extensions Development
 
 Articles covering the development of extensions for Ansible.
-  * Placeholder
+
+= Placeholder
 
 ##### Inventory
 
 Articles covering development of inventory extensions.
-  * Placeholder
+
+= Placeholder
 
 ##### Modules
 
 Articles covering development of modules.
-  * Placeholder
+
+= Placeholder
 
 ##### Plugins
 
 Articles covering development of plugins.
-  * Placeholder
+
+= Placeholder
