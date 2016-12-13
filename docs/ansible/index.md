@@ -8,7 +8,7 @@ Articles covering the use of Ansible.
 
 Articles covering use of `hosts`.
 
-* Placeholder
+  * Placeholder
 
 ##### Roles
 
