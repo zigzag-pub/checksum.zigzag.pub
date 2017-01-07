@@ -1,3 +1,8 @@
+---
+layout: default
+title: Checksum::Hashicorp
+---
+
 ## Checksum Hashicorp
 
 ### Consul

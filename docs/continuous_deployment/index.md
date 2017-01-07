@@ -1,3 +1,8 @@
+---
+layout: default
+title: Checksum::ContinuousDeployment
+---
+
 ## Checksum Continuous Deployment
 
 ### Continuous Integration Testing

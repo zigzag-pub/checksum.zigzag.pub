@@ -1,3 +1,8 @@
+---
+layout: default
+title: Checksum::Ansible
+---
+
 ## Checksum Ansible
 
 ### Use
